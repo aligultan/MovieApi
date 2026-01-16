@@ -1,21 +1,22 @@
-## Visual Studio
+# Visual Studio geçici dosyalarý
 .vs/
 .vscode/
+
+# Build çýktýlarý
 bin/
 obj/
-*.user
-*.suo
-*.cache
-*.log
-*.vsidx
-*.vspscc
-
-## Build results
 [Dd]ebug/
 [Rr]elease/
 x64/
 x86/
 
-## NuGet
+# Kullanýcý ayarlarý
+*.user
+*.suo
+
+# NuGet paketleri
 packages/
 *.nupkg
+
+# Log dosyalarý
+*.log
