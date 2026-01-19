@@ -11,7 +11,7 @@ This repository represents an **actively developed** backend system for managing
 This solution is structured to support clean separation of concerns across layers:
 
 
-This setup follows **Onion Architecture principles** to isolate the domain core and keep infrastructure concerns separated. :contentReference[oaicite:1]{index=1}
+This setup follows **Onion Architecture principles** to isolate the domain core and keep infrastructure concerns separated.
 
 ---
 
